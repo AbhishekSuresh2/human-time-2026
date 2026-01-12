@@ -1,4 +1,4 @@
-# ⏱️ human-time-2026
+# [⏱️ human-time-2026](https://www.npmjs.com/package/human-time-2026)
 
 ## 📊 Project Stats
 
